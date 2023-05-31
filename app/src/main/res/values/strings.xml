@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AgriCheckApp</string>
+    <string name="nama_pengguna">Bintang Samudra</string>
+    <string name="nama">Nama</string>
+    <string name="nama_lengkap">Bintang Samudra</string>
+    <string name="email">Email</string>
+    <string name="nama_email">blaablaaa@gmail.com</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama_alamat">Riau, Indonesia</string>
+    <string name="desc">"Aplikasi ini dapat membantu anda dalam menemukan rekomendasi pemupukan yang benar dan tepat sesuai
+        dengan permasalahan tanaman anda"</string>
+</resources>
